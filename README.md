@@ -3,7 +3,7 @@ Spring Boot State Machine Basics more details(https://docs.spring.io/spring-stat
 
 # Docker
 
-Please run docker-compose file or build docker file.
+Please run docker-compose file or build the project.
 
 ```
 docker-compose up
